@@ -1,67 +1,84 @@
-🚀 Hi, I'm Samiksha Singh
-👩‍💻 B.Tech CSE (2nd Year) | DSA Learner | Web Developer
+<!--Header-->
+<h1 align="center">✨ Hey, I'm <strong>Samiksha Singh</strong> ✨</h1>
+<h3 align="center">👩‍💻 B.Tech CSE (2nd Year) | DSA Enthusiast | Web Developer</h3>
 
-Welcome to my GitHub! I'm a Computer Science undergraduate passionate about Data Structures & Algorithms, Web Development, and building real-world projects to sharpen my skills.
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/blob/main/images/banner.gif" width="800px"/>
+</p>
 
-🧩 About Me
+---
 
-🎓 2nd Year B.Tech CSE student
+## 🌸 About Me  
+- 🎓 2nd Year **B.Tech CSE** student  
+- 🔍 Learning **DSA (C/C++/Python/Java)**  
+- 🎨 Exploring **Web Development** (HTML, CSS, JavaScript)  
+- 🚀 Passionate about *problem solving & clean UI*  
+- 🎯 Goal: Become a strong full-stack developer  
 
-📘 Currently learning DSA (C/C++/Java/Python)
+---
 
-🌐 Exploring Front-End Web Development (HTML, CSS, JavaScript)
+## 🌈 Tech Stack  
 
-💡 Interested in Problem Solving, System Design, and Full-Stack Development
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
-🎯 Goal: Improve daily & contribute to open-source
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-🛠️ Technologies & Tools
-Languages
+### 🛠️ Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-C • C++ • Python • JavaScript
+---
 
-Web Development
+## 🪄 What I'm Learning  
+- ✨ Data Structures & Algorithms  
+- ✨ Responsive Web Design  
+- ✨ JavaScript Projects  
+- ✨ React.js (beginner)  
+- ✨ Git & GitHub workflow  
 
-HTML5 • CSS3 • JavaScript
+---
 
-Learning: React.js, Node.js
+## 📌 Projects
+> *(Add your project links later)*  
 
-Tools
+- 🌐 **Personal Portfolio**  
+- 📘 **DSA Practice Repo**  
+- 🎮 **JavaScript Mini Projects**  
+- 💻 **C/C++ Programs Collection**
 
-Git & GitHub
+---
 
-VS Code
+## 📊 GitHub Stats  
 
-Linux/Windows
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="150px"/>
+</p>
 
-📚 Current Learning Path
+---
 
-🚀 Mastering DSA (Arrays, Linked List, Trees, Graphs, DP…)
+## ✨ Fun Stuff  
+- 💗 Love solving problems  
+- 🎵 Music + Coding = Perfect combo  
+- 🎨 Aesthetic UI lover  
+- 🌸 Soft tech vibes ✨  
 
-🧱 Building Front-End Web Projects
+---
 
-🌱 Improving Git & GitHub workflow
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="45px"></a>
+</p>
 
-💻 Starting Competitive Programming
+---
 
-📂 Featured Projects
+<h3 align="center">🌸 Thanks for visiting my profile! 🌸</h3>
 
-(Add your links later)
-
-🔹 Portfolio Website
-
-🔹 DSA Practice Repository
-
-🔹 Mini JavaScript Projects
-
-🔹 C/C++ Learning Projects
-
-📈 GitHub Stats
-![Samiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-🤝 Connect With Me
-
-💼 LinkedIn: add link here
-
-📧 Email: add email here
