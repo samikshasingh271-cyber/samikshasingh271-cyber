@@ -1,84 +1,54 @@
-<!--Header-->
-<h1 align="center">✨ Hey, I'm <strong>Samiksha Singh</strong> ✨</h1>
-<h3 align="center">👩‍💻 B.Tech CSE (2nd Year) | DSA Enthusiast | Web Developer</h3>
+# 👋 Hi, I'm **Samiksha Singh**
+### B.Tech CSE (2nd Year) | DSA Learner | Web Developer
 
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/blob/main/images/banner.gif" width="800px"/>
-</p>
+I’m a Computer Science undergraduate focused on building a strong foundation in **Data Structures & Algorithms** and **Web Development**.  
+I like writing clean code, designing simple interfaces, and continuously improving through projects and problem-solving.
 
 ---
 
-## 🌸 About Me  
+## 🧩 **About Me**
 - 🎓 2nd Year **B.Tech CSE** student  
-- 🔍 Learning **DSA (C/C++/Python/Java)**  
-- 🎨 Exploring **Web Development** (HTML, CSS, JavaScript)  
-- 🚀 Passionate about *problem solving & clean UI*  
-- 🎯 Goal: Become a strong full-stack developer  
+- 💻 Learning **C, C++, Python, JavaScript**  
+- 📚 Building strong fundamentals in **DSA**  
+- 🌐 Exploring **Frontend Development**  
+- 🎯 Aim: Become proficient in full-stack development  
 
 ---
 
-## 🌈 Tech Stack  
+## 🛠️ **Skills & Technologies**
 
-### 💻 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
-</p>
+### **Languages**
+- C · C++ · Python · JavaScript
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+### **Web Development**
+- HTML · CSS · JavaScript  
+- Learning: React.js, Bootstrap
 
-### 🛠️ Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+### **Tools**
+- Git · GitHub · VS Code  
+- Linux · Figma (basic)
 
 ---
 
-## 🪄 What I'm Learning  
-- ✨ Data Structures & Algorithms  
-- ✨ Responsive Web Design  
-- ✨ JavaScript Projects  
-- ✨ React.js (beginner)  
-- ✨ Git & GitHub workflow  
+## 📘 **Current Focus**
+- Mastering DSA (Arrays → Trees → Graphs)  
+- Practicing clean UI with modern HTML/CSS  
+- Solving coding problems regularly  
+- Understanding Git & GitHub workflow  
 
 ---
 
-## 📌 Projects
-> *(Add your project links later)*  
-
-- 🌐 **Personal Portfolio**  
-- 📘 **DSA Practice Repo**  
-- 🎮 **JavaScript Mini Projects**  
-- 💻 **C/C++ Programs Collection**
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="150px"/>
-</p>
+## 📂 **Projects**
+*(Add your project links later)*  
+- Portfolio Website  
+- DSA Practice Repository  
+- JavaScript Mini Projects  
+- C/C++ Practice Programs  
 
 ---
 
-## ✨ Fun Stuff  
-- 💗 Love solving problems  
-- 🎵 Music + Coding = Perfect combo  
-- 🎨 Aesthetic UI lover  
-- 🌸 Soft tech vibes ✨  
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="45px"></a>
-</p>
-
----
-
-<h3 align="center">🌸 Thanks for visiting my profile! 🌸</h3>
+## 📊 **GitHub Stats**
+```md
+![Samiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
 
